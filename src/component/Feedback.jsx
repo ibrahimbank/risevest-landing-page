@@ -56,7 +56,7 @@ function Feedback() {
           FeedbackData.map((data) => {
             return (
               <>
-                <div className="feedbackCard">
+                <div className="feedbackCard" key={data.id}>
                   <p>{data.description}</p>
                   <div className="profile">
                     <img src={data.image} alt="profile" />

@@ -754,7 +754,7 @@ p {
   align-items: center;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1024px) {
   .community {
     display: flex;
     flex-direction: row;

@@ -1,0 +1,17 @@
+<svg width="144" height="49" viewBox="0 0 144 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="0.5" width="144" height="48" rx="10" fill="#2D2D2D"/>
+<g clip-path="url(#clip0_1_1190)">
+<path d="M20.6696 12.8777C20.1229 12.5244 19.4662 12.4176 18.8502 12.563L29.6751 23.388L33.1835 19.8796L20.6696 12.8777Z" fill="white"/>
+<path d="M17.5067 13.4429C17.2047 13.8443 17.031 14.3371 17.031 14.8584V34.1409C17.031 34.6622 17.2048 35.155 17.5067 35.5564L28.5634 24.4997L17.5067 13.4429Z" fill="white"/>
+<path d="M37.7622 22.4415L34.6091 20.6772L30.7867 24.4996L34.6093 28.3222L37.7627 26.5578C38.5182 26.1345 38.9692 25.3652 38.9692 24.4996C38.9692 23.634 38.5182 22.8648 37.7622 22.4415Z" fill="white"/>
+<path d="M29.675 25.6116L18.8507 36.4359C19.0282 36.4776 19.2088 36.5001 19.3894 36.5001C19.8358 36.5001 20.2806 36.3732 20.6696 36.1218L33.1836 29.12L29.675 25.6116Z" fill="white"/>
+</g>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Tomato Grotesk" font-size="13" letter-spacing="0em"><tspan x="48" y="37.05">Google Play</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Tomato Grotesk" font-size="13" letter-spacing="0em"><tspan x="124.787" y="21.05"> &#10;</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Tomato Grotesk" font-size="10" letter-spacing="0em"><tspan x="48" y="21.05">Download on the</tspan></text>
+<defs>
+<clipPath id="clip0_1_1190">
+<rect width="24" height="24" fill="white" transform="translate(16 12.5)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="144" height="49" viewBox="0 0 144 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="0.5" width="144" height="48" rx="10" fill="#2D2D2D"/>
+<g clip-path="url(#clip0_1_1181)">
+<path d="M32.4989 12.5C31.2194 12.5885 29.7239 13.4075 28.8525 14.474C28.0575 15.4415 27.4035 16.8785 27.6585 18.275C29.0565 18.3185 30.5009 17.48 31.3379 16.3955C32.1209 15.386 32.7134 13.958 32.4989 12.5Z" fill="white"/>
+<path d="M37.5554 20.5519C36.3269 19.0114 34.6004 18.1174 32.9699 18.1174C30.8174 18.1174 29.9069 19.1479 28.4114 19.1479C26.8694 19.1479 25.6979 18.1204 23.8364 18.1204C22.0079 18.1204 20.061 19.2379 18.8265 21.1489C17.091 23.8399 17.388 28.8994 20.2005 33.2088C21.2069 34.7508 22.5509 36.4848 24.3089 36.4998C25.8734 36.5148 26.3144 35.4963 28.4339 35.4858C30.5534 35.4738 30.9554 36.5133 32.5169 36.4968C34.2764 36.4833 35.6939 34.5618 36.7004 33.0198C37.4219 31.9144 37.6904 31.3579 38.2498 30.1099C34.1804 28.5604 33.5279 22.7734 37.5554 20.5519Z" fill="white"/>
+</g>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Tomato Grotesk" font-size="13" letter-spacing="0em"><tspan x="48" y="37.05">App Store</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Tomato Grotesk" font-size="13" letter-spacing="0em"><tspan x="124.787" y="21.05"> &#10;</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Tomato Grotesk" font-size="10" letter-spacing="0em"><tspan x="48" y="21.05">Download on the</tspan></text>
+<defs>
+<clipPath id="clip0_1_1181">
+<rect width="24" height="24" fill="white" transform="translate(16 12.5)"/>
+</clipPath>
+</defs>
+</svg>

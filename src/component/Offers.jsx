@@ -29,11 +29,11 @@ function Offers() {
     <>
       <section className="offer performance">
         <img
-          src={dimensions.width <= 780 ? ImgOne : illustrationOne}
+          src={dimensions.width <= 899 ? ImgOne : illustrationOne}
           alt="illustration"
           className="offers__img"
         />
-        {dimensions.width <= 780 ? (
+        {dimensions.width <= 899 ? (
           <div className="offers__details">
             <h2>Superior Performance</h2>
             <p>
@@ -61,11 +61,11 @@ function Offers() {
 
       <section className="offer">
         <img
-          src={dimensions.width <= 900 ? ImgTwo : illustrationTwo}
+          src={dimensions.width <= 899 ? ImgTwo : illustrationTwo}
           alt="illustration"
           className="offers__img"
         />
-        {dimensions.width <= 900 ? (
+        {dimensions.width <= 899 ? (
           <div className="offers__details personalization">
             <h2>Personalization</h2>
             <p>
@@ -94,11 +94,11 @@ function Offers() {
 
       <section className="offer diversification">
         <img
-          src={dimensions.width <= 780 ? ImgThree : illustrationThree}
+          src={dimensions.width <= 899 ? ImgThree : illustrationThree}
           alt="illustration"
           className="offers__img"
         />
-        {dimensions.width <= 780 ? (
+        {dimensions.width <= 899 ? (
           <div className="offers__details">
             <h2>Diversification</h2>
             <p>
@@ -125,7 +125,7 @@ function Offers() {
 
       {/* //////////////////////////// */}
 
-      {dimensions.width >= 781 && (
+      {dimensions.width >= 900 && (
         <section className="offer auto_invset">
           <img
             src={illustrationFour}

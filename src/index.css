@@ -292,11 +292,11 @@ header {
     width: 318px;
     height: 72px;
     line-height: 24px;
-    text-align: justify;
+    text-align: start;
   }
 
   .offer h2 {
-    text-align: center;
+    text-align: start;
     font-weight: 600;
     font-size: 32px;
     line-height: 90%;

@@ -1,5 +1,5 @@
 # This is RiseVest Landing Page, A text for the position of FRONTEND ENGINEER
-Live Link: https://risevest-landing-page-git-main-ibrahimbank.vercel.app/
+ Link: https://risevest-landing-page-git-main-ibrahimbank.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

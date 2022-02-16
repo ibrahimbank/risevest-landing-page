@@ -1,4 +1,4 @@
-# This is RiseVest Landing Page, A text for the position of FRONTEND ENGINEER
+# This is RiseVest Landing Page, An assessment test for the position of FRONTEND ENGINEER
  Link: https://risevest-landing-page-git-main-ibrahimbank.vercel.app/
 # Getting Started with Create React App
 
